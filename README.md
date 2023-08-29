@@ -1,2 +1,1 @@
-# NXP
-NXP Internship Projects
+# NXP Internship Projects
