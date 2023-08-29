@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mimxrt1062.h": "c",
+        "fsl_debug_console.h": "c",
+        "clock_config.h": "c"
+    }
+}

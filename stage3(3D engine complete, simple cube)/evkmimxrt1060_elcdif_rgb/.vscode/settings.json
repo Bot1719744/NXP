@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "fsl_gpio.h": "c",
+        "fsl_debug_console.h": "c",
+        "fsl_common.h": "c",
+        "clock_config.h": "c",
+        "cube.h": "c"
+    }
+}
